@@ -67,10 +67,9 @@ span{
 	color: #fff;
 	font-weight: bold;
 	transition: color 0.5s;
-	position: relative;
-	margin-right: 3%;
-    margin-top: 3px;
-    font-size: 18px;
+	margin-right: 12px;
+    	margin-top: 3px;
+    	font-size: 18px;
 }
 
 .card-info:hover span{
