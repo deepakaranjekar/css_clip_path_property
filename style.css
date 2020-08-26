@@ -20,7 +20,6 @@ body{
 
 .card-container{
 	position: relative;
-	display: inline-block;
 	height: 300px;
 	margin: 20px;
 	border-radius: 10px;
